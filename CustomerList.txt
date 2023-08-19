@@ -1,0 +1,2 @@
+Business Customer ->  Name : LG| Customer ID : 3| Phone : 456589| Address : | Type_of_business=Partners
+Individual Customer ->  Name : Tata| Customer ID : 4| Phone : 5465489| Address : | Salarised=y
